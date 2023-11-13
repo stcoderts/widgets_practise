@@ -1,19 +1,6 @@
-# Hello World
+In this project, I have made 2 widgets, which are Stateful (Described in Stateful_page.dart file) and Stateless (Described in Stateless_page.dart file).
+# Stateful widget
+-  In a  Stateful widget an user can increment and decrement the counter located in the center of the page. For that, an user has to press either of '+' or '-' button.
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+# Stateless widget
+- In a Stateless widget, you can see app's greeting
